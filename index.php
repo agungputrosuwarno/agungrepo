@@ -79,7 +79,7 @@ if ($vreset=="reset"){
 	
 	echo $mhsw::$universitas;
 ?>
-
+<h1>CRUD PBO</h1>
 <form action="?" method="get">
 <table>
     <tr><td>NIM</td><td>:</td><td>
